@@ -1,1 +1,46 @@
 @charset "UTF-8";
+
+body {
+  background-color: #ffebe8;
+  color: #ff7e63;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Arvo", serif;
+}
+h4 {
+  text-align: center;
+}
+
+span {
+  display: inline;
+}
+
+#message-block {
+  text-align: center;
+  font-size: 40px;
+}
+
+a {
+  text-align: center;
+}
+
+.card {
+  margin: 30px 200px;
+  background-color: #ffebe8;
+  border-color: #ff7e63;
+  color: #ff7e63;
+}
+
+.btn {
+  background-color: #ff7e63;
+  border-color: #ff7e63;
+  color: antiquewhite;
+}
+
+.btn:hover {
+  background-color: #395f90;
+  color: antiquewhite;
+  border-color: #395f90;
+}
